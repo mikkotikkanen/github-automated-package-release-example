@@ -1,2 +1,2 @@
-// This file is meant for changes to commit in order to force releases
+// This file is meant for mock code changes in order to force releases
 const test = 'test';
