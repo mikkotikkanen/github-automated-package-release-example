@@ -1,5 +1,5 @@
 {
-  "name": "github-automated-package-release-example",
+  "name": "@mikkotikkanen/github-automated-package-release-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
