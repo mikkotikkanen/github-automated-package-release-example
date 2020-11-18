@@ -15,7 +15,7 @@
   },
   "homepage": "https://github.com/mikkotikkanen/github-automated-package-release-example#readme",
   "devDependencies": {
-    "semantic-release": "^17.0.7"
+    "semantic-release": "^17.2.3"
   },
   "scripts": {
     "test": "echo \"Simulated testing successful.\"",
